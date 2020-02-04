@@ -22,7 +22,7 @@ davidnbrett@gmail.com</p>
 <li><s>The drupal configuration file containing all settings (modules conf, content types, views etc.) ;</s></li>
 <li>The Apache2 virtual host file ;</li>
 <li>The drupal specific varnish configuration file (vcl) ;</li>
-<li>The hitch configuration file (vcl) ;</li></ul>
+<li>The hitch configuration file ;</li></ul>
     
 <h2>Prerequisites</h2>     
 
