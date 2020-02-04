@@ -13,13 +13,13 @@ david.brett@ehess.fr</p>
 <li><s>Rewrite scripts and install modules/certs for an SSL only website;</s>  Done !</li>
 <li><s>Implement Varnish support;</s>  Done !</li>
 
-<h2>Allez Savoir - Festival des Sciences Sociales</h2>
+<h2>Dave's Drupal 8 custom build</h2>
 
-<p>This repository contains all the elements needed to build and run the festival website.<br/>It currently contains :</p>
+<p>This repository contains all the elements needed to build and run my favorite website.<br/>It currently contains :</p>
 <ul><li>The main composer.json with all required modules ;</li>
-<li>A shell script that runs the first part of the initial setup automatically ;</li>
-<li>An up to date copy of the Drupal database (from the development server) ;</li>
-<li>The drupal configuration file containing all settings (modules conf, content types, views etc.) ;</li>
+<li><s>A shell script that runs the first part of the initial setup automatically ;</s></li>
+<li><s>An up to date copy of the Drupal database (from the development server) ;</s></li>
+<li><s>The drupal configuration file containing all settings (modules conf, content types, views etc.) ;</s></li>
 <li>The Apache2 virtual host file ;</li>
 <li>The drupal specific varnish configuration file (vcl) ;</li></ul>    
     
