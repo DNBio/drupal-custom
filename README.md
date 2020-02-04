@@ -1,8 +1,8 @@
-# Drupal-Festival
+# Drupal-Custom
 
 <p>Author : David N. Brett<br/>
-V.0.9 - April 2019<br/>
-david.brett@ehess.fr</p>
+V.1.0 - February 2020<br/>
+davidnbrett@gmail.com</p>
 
 
 <h2>... in progress !</h2>
